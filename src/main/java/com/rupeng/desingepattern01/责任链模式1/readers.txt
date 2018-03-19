@@ -1,0 +1,3 @@
+com.rupeng.desingepattern01.责任链模式1.TxtTextReader
+com.rupeng.desingepattern01.责任链模式1.HtmlReader
+com.rupeng.desingepattern01.责任链模式1.DocxReader

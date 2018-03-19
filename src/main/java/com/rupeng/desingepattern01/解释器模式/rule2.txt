@@ -1,0 +1,8 @@
+if(age>10)
+{
+	sys.hello("liuxh1") + Math.random();
+}
+else
+{
+	sys.hello("liuxh2") + Math.random();
+}
